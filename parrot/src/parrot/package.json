@@ -1,0 +1,18 @@
+{
+  "name": "parrot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "npx npm-force-resolutions",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aspnet/signalr": "^1.0.27",
+    "semantic-ui": "^2.4.2"
+  },
+  "resolutions": {
+  }
+}
